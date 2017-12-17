@@ -1,4 +1,4 @@
-FROM jboss/keycloak-adapter-wildfly-mysql:latest
+FROM bpicio/keycloak-adapter-wildfly-mysql:latest
 
 # Open management port
 EXPOSE 9990
